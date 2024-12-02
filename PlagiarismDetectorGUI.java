@@ -27,7 +27,7 @@ public class PlagiarismDetectorGUI extends JFrame {
 
         // Configure a layout with padding
         GridBagConstraints gbc = new GridBagConstraints();
-        gbc.insets = new Insets(10, 10, 10, 10)  // Padding between elements
+        gbc.insets = new Insets(10, 10, 10, 10);  // Padding between elements
 
         // File selection fields and buttons with enhanced styling
         file1Field = new JTextField(25);
